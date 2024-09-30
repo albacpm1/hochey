@@ -1,1 +1,1 @@
-# hochey
+# Migthy Ducks Hockey League
